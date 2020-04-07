@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{N2Ca:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),l=n("Wbzz"),o=n("Bl7J"),c=n("vrFN");t.default=function(){return r.a.createElement(o.a,null,r.a.createElement(c.a,{title:"Projects"}),r.a.createElement("h1",null,"Hi from the project page"),r.a.createElement("p",null,"These are all the things Ive been working on in my free time"),r.a.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-49747039336f1a88e1cf.js.map
